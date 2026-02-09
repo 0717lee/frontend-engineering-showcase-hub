@@ -1,5 +1,7 @@
 # Frontend Engineering Showcase Hub
 
+[中文版](./README.zh-CN.md)
+
 > This is the engineering narrative layer for the frontend engineering system.
 
 ## What This Is
